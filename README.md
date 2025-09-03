@@ -1,4 +1,4 @@
-# 🧑‍💻 Felipe Evangelista Gomes
+  # 🧑‍💻 Felipe Evangelista Gomes
 
 **`Desenvolvedor De Software `**
 
@@ -32,9 +32,9 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Tecno
 ---
 ### 📊 Estatísticas
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=felipeevgomes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" />
   
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeevgomes&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
