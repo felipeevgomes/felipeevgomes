@@ -7,7 +7,7 @@ Atualmente, estou cursando **Ciências da Computação** na **Universidade Tecno
 <br/>
 
 <p align ="left">
-  <a href="https://mail.google.com/felipeevangomes@gmail.com" target="_blank">
+  <a href="mailto:felipeevangomes@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/felipeevgomes" target="_blank">
