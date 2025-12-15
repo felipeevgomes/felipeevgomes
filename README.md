@@ -1,18 +1,14 @@
   # 🧑‍💻 Felipe Evangelista Gomes
 
-**`Desenvolvedor De Software `**
+**`Desenvolvedor De Software`**
 
 Me chamo Felipe Evangelista Gomes, tenho 20 anos e sou de Campo Mourão.
 Atualmente, estou cursando **Ciências da Computação** na **Universidade Tecnológica Federal do Paraná UTFPR**.
 <br/>
 
-<p align ="left">
-  <a href="mailto:felipeevangomes@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/felipeevgomes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="left">
+  <a href="mailto:felipeevangomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/felipeevgomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
