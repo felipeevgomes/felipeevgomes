@@ -2,8 +2,14 @@
 
 **`Desenvolvedor De Software`**
 
-Me chamo Felipe Evangelista Gomes, tenho 20 anos e sou de Campo Mourão.
-Atualmente, estou cursando **Ciências da Computação** na **Universidade Tecnológica Federal do Paraná UTFPR**.
+Sou estudante de **Ciência da Computação** na **UTFPR** (Universidade Tecnológica Federal do Paraná).
+
+Atualmente, meu foco é o desenvolvimento **Full Stack**, unindo performance e boas práticas de arquitetura de software.
+
+- 🔭 **Atualmente trabalhando em:** Um projeto de Iniciação Científica desenvolvendo uma plataforma educacional para gestão de redações.
+- 🌱 **Atualmente estudando:** Arquitetura de Software, Algoritmos Avançados e DevOps.
+- 🎓 **Formação:** Ciência da Computação na UTFPR (em andamento).
+- ⚡ **Curiosidade:** Minha base em eletrônica me ajuda a entender profundamente como o software interage com o hardware.
 <br/>
 
 <p align="left">
