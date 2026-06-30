@@ -2,17 +2,21 @@
 
 **`Desenvolvedor de Software`**
 
----
+<br>
 
 ### 🚀 About me
+
+---
 
 - 🔬 Pesquisa aplicada em **aprendizagem adaptativa** (Iniciação Científica – AdaptLearn)
 - ✍️ Desenvolvimento da **AdaptWrite**, plataforma web de apoio à escrita e acessibilidade
 - 🎓 Cursando Ciência da Computação na UTFPR
 
----
+<br>
 
 ### 🛠️ Stack
+
+---
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
@@ -51,9 +55,9 @@
 
 <br clear="both" />
 
----
-
 ### 📫 Onde me encontrar
+
+---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://felipeevgomes.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeevgomes/)
