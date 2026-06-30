@@ -2,7 +2,7 @@
 - 🔬 Pesquisa aplicada em **aprendizagem adaptativa** (Iniciação Científica – AdaptLearn)
 - ✍️ Desenvolvimento da **AdaptWrite**, plataforma web de apoio à escrita e acessibilidade
 - 🎓 Cursando Ciência da Computação na UTFPR
-<br>
+
 
 ## 🛠️ Stack
 
@@ -41,7 +41,6 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openiacodex&logoColor=white)
 
-<br>
 
 ## 📫 Onde me encontrar
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://felipeevgomes.com.br)
